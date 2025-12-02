@@ -1,0 +1,35 @@
+Memory: 
+Heap Stack
+Stack -> Function Call
+Heap -> Objects
+
+Input space + Auxiliary Space(Temp)
+Ex: Merge Sort -> Temp Array {n} -> O(n)
+{Space}(Device Storage) << {Time}
+
+for(int i=0;i<n;i++){
+    iska Complexity O(n) hai ig!! imsure!
+}
+
+for(int i=0;i<n;i++){
+    for(int i=0;i<n;i++){
+        iska Complexity O(n^2) hai ig!! imsure!
+    }//n iske ke liye
+}//n iske liye 
+SO nxn=n^2
+
+for(int i=0;i<n;i++){
+    for(int i=0;i<i;i++){
+    }
+}
+k-> 2k -> 3k -> 4k -> 5k -> .... -> nk
+k
+O(n^2)
+
+
+for(int i=0;i<n;i+i+k){
+    for(int j=i+1;i<=k;j++){
+    }//k
+}//n/k
+
+SO: n/k x k = n

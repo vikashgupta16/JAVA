@@ -1,0 +1,87 @@
+Car-> Speed -> price -> capacity
+time >>
+space >>
+performance >>
+Efficient>>
+
+Time Complexity
+Linear Search Me -> Worst Case -> me N time Hoga(Toh ServerDown Ho JAyaega) -> Time directly proportional hai 
+Sorted Array-> Larget arr[n-1] -> 1 operation me hogya -> Time Constant hai
+
+    |
+    |            /
+    |         / 
+    |      /
+    |   /
+    |/
+    |____________________
+
+x-> input size
+y -> time Complexity
+
+y=ax+b
+Experminental Analysis: test kro for diff n and then graph plot kro
+Theoritical Analysis: 
+
+
+|
+|
+|
+|
+|
+|------------------ time Complexity O(1)
+|
+|
+|
+|
+|_________________
+
+
+Big O Notation  
+
+o(1)
+O(n)
+O(log n)
+O(n log n)
+O(n2)>>O(2n)  -> Worst Ever
+
+time = an2 + bn + c;
+
+Step 1: Ignore Constants;
+Step 2: Largest Term (n2 + n+ 1)
+Step 3: O(n2)
+
+
+time = an3 + blogn +c
+
+Step 1: n3+logn
+Step 2: n3
+Step 3: O(n3)
+
+    Eq:         |f(n)|
+                ------  < ♾️
+    lim -> ♾️    g(n)
+
+
+Big Omega Notation
+_o_   : Best CAse
+
+_________________ Uper BOund
+| | |  | |  | |  |
+
+_|_|__|____|___|_ Lower BOund    
+
+
+Big Theta Notation
+Avg:
+
+Small O
+Small Omega
+Small Theta
+
+
+Common Complexity:
+O(2n)>>O(n2)>>O(n)>>O(log n)>>O(1)
+Expon>> Pow >>Lin>> Efficient >> Constant
+
+Recursion -> memorization -> Dyanamic Programing
